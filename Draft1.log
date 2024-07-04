@@ -1,0 +1,24 @@
+Circuit: * D:\SUT\Electronic 2\Project#2_Electronic2_401102337\Draft1.asc
+
+WARNING: Less than two connections to node Z.  This node is used by Q19.
+WARNING: Less than two connections to node X.  This node is used by R22.
+Direct Newton iteration for .op point succeeded.
+
+Date: Sat Jun 29 14:40:33 2024
+Total elapsed time: 0.053 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 1074
+traniter = 1057
+tranpoints = 347
+accept = 246
+rejected = 101
+matrix size = 109
+fillins = 56
+solver = Normal
+Thread vector: 5.5/4.0[2] 2.2/1.8[2] 1.0/0.8[2] 0.4/0.8[1]  2592/500
+Matrix Compiler1: 11.34 KB object code size  2.0/1.0/[0.5]
+Matrix Compiler2: 10.65 KB object code size  0.7/1.1/[0.4]
+
